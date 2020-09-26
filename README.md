@@ -28,7 +28,12 @@ Budget Tracker is an application where the user can add expenses and deposits to
 The license for which the application is covered:
 NONE 
 
-
+# Technologies
+- Compression
+- Mongoose
+- Express
+- Morgan
+- Webpack-cli
 
 # Questions
 
