@@ -6,7 +6,7 @@
 
 # Description
 
-Budget Tracker is an application where the user can add expenses and deposits to their budget online or offline. You can install the application on any device (cell phone, tablet, etc.) for hassle-free use.
+Budget Tracker is an application where the user can add expenses and deposits to their budget online or offline. You can install the application on any device (cell phone, tablet, etc.) for hassle-free use.The site is deployed in Heroku
 
 
 
@@ -14,7 +14,7 @@ Budget Tracker is an application where the user can add expenses and deposits to
 
 
 
- ### Visit the site! [Budget Traker](https:)
+ ### Visit the site! [Budget Traker](https://damp-springs-37599.herokuapp.com/)
 
 
     
@@ -33,7 +33,8 @@ NONE
 - Mongoose
 - Express
 - Morgan
-- Webpack-cli
+- MongoDB Atlas
+- Heroku
 
 # Questions
 
