@@ -32,8 +32,7 @@ NONE
 - Compression
 - Mongoose
 - Express
-- Morgan
-- MongoDB Atlas
+- MongoDB 
 - Heroku
 
 # Questions
